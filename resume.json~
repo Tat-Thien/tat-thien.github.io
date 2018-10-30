@@ -14,7 +14,7 @@
     {
       "network": "LinkedIn",
       "username": "Tat-Thien Pham",
-      "url": "www.linkedin.com/in/tat-thien-pham"
+      "url": "https://www.linkedin.com/in/tat-thien-pham/"
     },
     {
 		"network": "GitHub",
@@ -32,7 +32,7 @@
     "summary": "While working at WZL RWTH Aachen, I was involved in several industry and research projects in the area of production management. In the course of the projects, most of the time in a team of 2-3 developers, I developed web applications and individual software solutions for configuring and optimizing products and production networks. This included the implementation of software, which extracts, processes, analyzes and presents data.",
     "highlights": [
       "Development of a process modelling tool <span class=\"badge\">d3.js</span>",
-      "Development and maintenance of a web-based tool to capture production data <span class=\"badge\">IIS</span> <span class=\"badge\">ASP</span>",
+      "Development and maintenance of a web-based tool to capture production data <span class=\"badge\">ASP</span><span class=\"badge\">IIS</span>",
       "Development of a product configuration tool <span class=\"badge\">VBA</span>",
       "Optimization of the utilization of machines within a production chain with the help of a genetic algorithm <span class=\"badge\">Java</span>"
     ]
