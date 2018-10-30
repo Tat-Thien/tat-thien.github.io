@@ -84,14 +84,14 @@
       "Embedded Systems",
       "Mobile Internet Technology",
       "Processes and Methods of Software Tests",
-      "Applied Software Engineering within the life cycle of Automotive Electronics",
+      "Applied Software Engineering within the life cycle of Automotive Electronics <span class=\"badge\">Java</span> <span class=\"badge\">Monticore</span>",
       "Information Management for Public Mobility Systems",
       "Social Computing",
       "Automatic Speech Recognition",
       "Virtual Reality",
       "Computer Vision",
       "Medical Image Processing",
-      "Serious Games in Medicine <span class=\"badge\">C#</span><span class=\"badge\">Unity</span> <span class=\"badge\">Scrum</span>"
+      "Serious Games in Medicine <span class=\"badge\">Java</span> <span class=\"badge\">Javascript</span> <span class=\"badge\">React</span> <span class=\"badge\">C#</span><span class=\"badge\">Unity</span> <span class=\"badge\">Scrum</span>"
     ]
   },
   {
@@ -108,14 +108,38 @@
   "awards": [],
   "publications": [],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Web Development (Back- and Frontend)",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React.js",
+      "Spring Boot",
+      "Apache Tomcat"
+    ]
+  }, {
+    "name": "Programming Languages",
+    "keywords": [
+      "Java",
+      "Python",
+      "Javascript"
+    ]
+  },{
+    "name": "Databases",
     "keywords": [
       "HTML",
       "CSS",
       "Javascript"
     ]
-  }],
+  }, {
+    "name": "DevOps",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  } 
+  ],
   "languages": [{
     "language": "English",
     "fluency": "Fluent speaker"
@@ -125,12 +149,18 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Facilitate trainings",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Team building workshops",
+      "Intercultural seminars"
     ]
-  }],
+  }, {
+  	"name": "Sports",
+    "keywords": [
+      "Soccer"
+    ]
+  }
+  ],
   "references": []
 
 }
