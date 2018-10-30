@@ -78,8 +78,7 @@
     "institution": "Rheinisch-Westfälische Technische Hochschule Aachen",
     "area": "Computer Science",
     "studyType": "Master",
-    "startDate": "2014",
-    "endDate": "2018",
+    "startDate": "2014-10-01",
     "gpa": "2.3",
     "courses": [
       "Algorithmic Game Theory",
@@ -101,8 +100,8 @@
     "institution": "FH Aachen – Aachen University of Applied Sciences",
     "area": "Scientific Programming",
     "studyType": "Bachelor",
-    "startDate": "2011",
-    "endDate": "2014",
+    "startDate": "2011-09-01",
+    "endDate": "2014-09-30",
     "gpa": "1.7",
     "courses": [
     ]

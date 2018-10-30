@@ -18,7 +18,7 @@
   },
   "work": [{
     "company": "Werkzeugmaschinenlabor RWTH Aachen",
-    "position": "Student Assistant",
+    "position": ["Student Assistant", "Mathematical and Technical Software Developer Apprentice"],
     "website": "https://www.wzl.rwth-aachen.de",
     "startDate": "2014-10-01",
     "endDate": "2017-05-01",
