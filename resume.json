@@ -10,84 +10,75 @@
       "countryCode": "Germany",
       "region": "NRW"
     },
-    "profiles": [ 
-    {
+    "profiles": [{
       "network": "LinkedIn",
       "username": "Tat-Thien Pham",
       "url": "https://www.linkedin.com/in/tat-thien-pham-0684b5158/"
-    }
-    ]
+    }]
   },
   "work": [{
     "company": "Werkzeugmaschinenlabor RWTH Aachen",
     "position": "Student Assistant",
     "website": "https://www.wzl.rwth-aachen.de",
-    "startDate": "2014",
-    "endDate": "2017",
+    "startDate": "2014-10-01",
+    "endDate": "2017-05-01",
     "summary": "",
     "highlights": [
       "Started the company"
     ]
-  },
-  {
+  }, {
     "company": "Werkzeugmaschinenlabor RWTH Aachen",
     "position": "Mathematical and Technical Software Developer Apprentice",
     "website": "https://www.wzl.rwth-aachen.de",
-    "startDate": "2011",
-    "endDate": "2014",
+    "startDate": "2011-09-01",
     "summary": "While working at WZL RWTH Aachen, I was involved in several industry and research projects in the area of production management. In the course of the projects, most of the time in a team of 2-3 developers, I developed web applications and individual software solutions for configuring and optimizing products and production networks. This included the implementation of software, which extracts, processes, analyzes and presents data.",
     "highlights": [
       "Started the company"
     ]
   }],
-  "volunteer": [
-  {
+  "volunteer": [{
     "organization": "AIESEC in Aachen/Germany",
     "position": "Marketing Manager, Community Engager, Trainer, Organizing Committee President",
     "website": "https://aiesec.org/",
     "startDate": "2016-07-01",
-    "endDate": "today",
     "summary": "I joined the local student initiative AIESEC in Aachen during my master's. Starting as a member in the marketing department, I was responsible for all local marketing activities, ranging from the planning and execution of info events, lecture presentations and the cooperation with partner initiatives and institutions. After half a year, I joined the national information systems team on the national level of AIESEC in Germany. As a community engager, I was responsible for the first-level support for all of our technical systems, as well as providing the community educational input for being able to work with the systems. Supported with a scholarship by Microsoft, I participated in a volunteering project in Recife (Brazil) called 'Global Volunteer' organized by AIESEC (April 2017). For two months, I worked in the community library 'Bibliotéca Caranguejo Tabaiares' within a favela. My main engagement was to plan and execute activities for children between the age of 5-12 years, which helped them to develop an awareness for cultural diversity. Furthermore I took part of a trainer seminar (August 2017), which enabled me to act as a trainer within the organization. Up to now I was able to train several intercultural, functional and team building trainings. Another opportunity was the organization of a national conference for 300 participants in January 2018. In the position of a organizing committee president, I was leading a team of 10 team members, coordinating finances, logistics and fundraising.",
     "highlights": [
-    {
+    
       "Organization of a national conference"
-    },
-    {
+    ,
+    
       "Train-the-Trainer participation"
-    },
-    {
+    ,
+    
       "Microsoft scholarship for a volunteering program"
-    }]
+    ]
   },
   {
     "organization": "TEDxRWTHAachen",
     "position": "Head of IT department",
     "website": "https://tedxrwthaachen.de/",
     "startDate": "2016-07-01",
-    "endDate": "today",
     "summary": "In parallel to AIESEC, I also joined the local student initiative TEDxRWTHAachen during my master's. In the position of the head of the IT-team, the team members and I were responsible for the maintenance of our website, database, communication and collaboration tools and livestreaming. This included the development of internal supporting tools, handling the ticketing and capacity planning for webhosting and cloud. Up to now I was part of the organization of two TEDx conferences with 200 and 350 attendees.",
     "highlights": [
-	{
+	
       "Maintenance of website <span class=\"badge\">php</span><span class=\"badge\">MySQL</span><span class=\"badge\">Javascript</span>"
-    },
-    {
+    ,
+    
       "Maintenance of collaboration and communication tools"
-    },
-    {
+    ,
+    
       "Handling of ticketing"
-    },
-    {
+    ,
+    
       "Capacity planning for webhosting and cloud"
-    }]
-  }
-  ],
+    ]
+  }],
   "education": [
   {
     "institution": "Rheinisch-Westfälische Technische Hochschule Aachen",
     "area": "Computer Science",
     "studyType": "Master",
-    "startDate": "2014",
-    "endDate": "2018",
+    "startDate": "2014-10-01",
     "gpa": "2.3",
     "courses": [
       "Algorithmic Game Theory",
@@ -109,8 +100,8 @@
     "institution": "FH Aachen – Aachen University of Applied Sciences",
     "area": "Scientific Programming",
     "studyType": "Bachelor",
-    "startDate": "2011",
-    "endDate": "2014",
+    "startDate": "2011-09-01",
+    "endDate": "2014-09-30",
     "gpa": "1.7",
     "courses": [
     ]
@@ -145,4 +136,5 @@
   "references": []
 
 }
+
 
