@@ -10,27 +10,25 @@
       "countryCode": "Germany",
       "region": "NRW"
     },
-    "profiles": [{
+    "profiles": [
+    {
       "network": "LinkedIn",
       "username": "Tat-Thien Pham",
       "url": "https://www.linkedin.com/in/tat-thien-pham-0684b5158/"
-    }]
+    },
+    {
+		"network": "GitHub",
+		"username": "Tat Thien",
+		"url": "https://github.com/Tat-Thien"
+	}
+    ]
   },
   "work": [{
     "company": "Werkzeugmaschinenlabor RWTH Aachen",
-    "position": "Student Assistant",
-    "website": "https://www.wzl.rwth-aachen.de",
-    "startDate": "2014-10-01",
-    "endDate": "2017-05-01",
-    "summary": "",
-    "highlights": [
-      "Started the company"
-    ]
-  }, {
-    "company": "Werkzeugmaschinenlabor RWTH Aachen",
-    "position": "Mathematical and Technical Software Developer Apprentice",
+    "position": "Mathematical and Technical Software Developer Apprentice, Student Assistant",
     "website": "https://www.wzl.rwth-aachen.de",
     "startDate": "2011-09-01",
+    "endDate": "2017-05-01",
     "summary": "While working at WZL RWTH Aachen, I was involved in several industry and research projects in the area of production management. In the course of the projects, most of the time in a team of 2-3 developers, I developed web applications and individual software solutions for configuring and optimizing products and production networks. This included the implementation of software, which extracts, processes, analyzes and presents data.",
     "highlights": [
       "Started the company"
@@ -93,7 +91,7 @@
       "Virtual Reality",
       "Computer Vision",
       "Medical Image Processing",
-      "Serious Games in Medicine"
+      "Serious Games in Medicine <span class=\"badge\">C#</span><span class=\"badge\">Unity</span> <span class=\"badge\">Scrum</span>"
     ]
   },
   {
