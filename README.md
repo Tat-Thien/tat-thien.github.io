@@ -1,19 +1,21 @@
-Prerequirements:
+How-To create resume:
 
-1. Create personal Github Page: https://pages.github.com/
+      Prerequirements:
 
-2. Install command line tool of JSONResume:
+            1. Create personal Github Page: https://pages.github.com/
 
-      npm install -g resume-cli
-  
-3. Install arbitrary theme:
+            2. Install command line tool of JSONResume:
 
-      npm install -g jsonresume-theme-<theme_name>
-  
-4. Create JSON file: resume.json
+                  npm install -g resume-cli
 
-5. Fill JSON according to your needs (see https://jsonresume.org/schema/).
-  
-Export resume using command line tool:
+            3. Install arbitrary theme:
 
-      resume export -t <theme_name> index.html
+                  npm install -g jsonresume-theme-<theme_name>
+
+            4. Create JSON file: resume.json
+
+            5. Fill JSON according to your needs (see https://jsonresume.org/schema/).
+
+      Export resume using command line tool:
+
+            resume export -t <theme_name> index.html
