@@ -6,11 +6,11 @@ Prerequirements:
 
 2. Install command line tool of JSONResume:
 
-  npm install -g resume-cli
+      npm install -g resume-cli
   
 3. Install arbitrary theme:
 
-  npm install -g jsonresume-theme-<theme_name>
+      npm install -g jsonresume-theme-<theme_name>
   
 4. Create JSON file: resume.json
 
@@ -18,4 +18,4 @@ Prerequirements:
   
 Export resume using command line tool:
 
-  resume export -t <theme_name> index.html
+      resume export -t <theme_name> index.html
