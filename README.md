@@ -1,5 +1,3 @@
-How-To:
-
 Prerequirements:
 
 1. Create personal Github Page: https://pages.github.com/
