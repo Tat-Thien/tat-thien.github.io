@@ -134,10 +134,9 @@
       "PostgreSQL"
     ]
   }, {
-    "name": "DevOps",
+    "name": "Containerization",
     "keywords": [
-      "Docker",
-      "Vagrant"
+      "Docker"
     ]
   } 
   ],
