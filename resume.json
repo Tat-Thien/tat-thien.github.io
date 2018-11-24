@@ -80,7 +80,7 @@
     "area": "Computer Science",
     "studyType": "Master",
     "startDate": "2014-10-01",
-    "gpa": "2.3",
+    "gpa": "2.3 (German grading system)",
     "courses": [
       "Algorithmic Game Theory",
       "String Processing and Compression",
@@ -103,7 +103,7 @@
     "studyType": "Bachelor",
     "startDate": "2011-09-01",
     "endDate": "2014-09-30",
-    "gpa": "1.7",
+    "gpa": "1.7 (German grading system)",
     "courses": [
     ]
   }
@@ -115,8 +115,9 @@
     "keywords": [
       "HTML",
       "CSS",
-      "Javascript",
-      "React.js",
+      "JavaScript",
+      "React",
+      "Redux",
       "Spring Boot",
       "Apache Tomcat"
     ]
@@ -125,7 +126,7 @@
     "keywords": [
       "Java",
       "Python",
-      "Javascript"
+      "JavaScript"
     ]
   },{
     "name": "Databases",
@@ -142,25 +143,13 @@
   ],
   "languages": [{
     "language": "English",
-    "fluency": "Fluent speaker"
+    "fluency": "Proficient user"
   },
   {
     "language": "German",
     "fluency": "Native speaker"
   }],
-  "interests": [{
-    "name": "Facilitate trainings",
-    "keywords": [
-      "Team building workshops",
-      "Intercultural seminars"
-    ]
-  }, {
-  	"name": "Sports",
-    "keywords": [
-      "Soccer"
-    ]
-  }
-  ],
+  "interests": [],
   "references": []
 
 }
