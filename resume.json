@@ -80,7 +80,7 @@
     "area": "Computer Science",
     "studyType": "Master",
     "startDate": "2014-10-01",
-    "gpa": "2.3 (German grading system)",
+    "gpa": "2.3 (German standard)",
     "courses": [
       "Algorithmic Game Theory",
       "String Processing and Compression",
@@ -103,7 +103,7 @@
     "studyType": "Bachelor",
     "startDate": "2011-09-01",
     "endDate": "2014-09-30",
-    "gpa": "1.7 (German grading system)",
+    "gpa": "1.7 (German standard)",
     "courses": [
     ]
   }
